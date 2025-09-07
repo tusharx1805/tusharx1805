@@ -1,10 +1,14 @@
-<img align="left" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHoxenZqcHAwZWg0a3M5eXlib2xjNnBlNnY2a2dxbDlkbDNjcmphMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S9d8XB557e8phGLBVS/giphy.gif"  />
+<br clear="both">
+
+<img align="left" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHoxenZqcHAwZWg0a3M5eXlib2xjNnBlNnY2a2dxbDlkbDNjcmphMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S9d8XB557e8phGLBVS/giphy.gif"  />
 
 ###
 
-<h2 align="center">Hi there , I'm Tushar<br><br>🚀  Problem Solver | Tech Enthusiast<br><br>I love building things that make life easier, cleaner, and smarter.<br><br>What I’m Up To :<br>Learning Cloud & DevOps ☁️</h2>
+<h3 align="right">Hi there , I'm Tushar<br><br>🚀  Problem Solver | Tech Enthusiast<br><br>I love building things that make life easier, cleaner, and smarter.<br><br>What I’m Up To :<br>Learning Cloud & DevOps ☁️</h3>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
@@ -28,6 +32,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
@@ -41,13 +47,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/tusharx1805/tusharx1805/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tusharx1805&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharx1805&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tusharx1805&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharx1805&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="178" alt="languages graph"  />
 </div>
 
 ###
